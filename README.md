@@ -295,6 +295,7 @@ Current database includes modules for:
 
 This project aims to develop an intelligent Healthcare Technology Management platform capable of:
 
+- Enhance decision-making qualitatively and quantitatively 
 - Improving maintenance efficiency
 - Supporting predictive maintenance
 - Monitoring medical equipment in real time
@@ -302,6 +303,7 @@ This project aims to develop an intelligent Healthcare Technology Management pla
 - Optimizing limited biomedical engineering resources
 - Supporting centralized management of geographically distributed hospitals
 - Enhancing equipment reliability and patient safety
+  
 
 ---
 
