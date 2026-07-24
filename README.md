@@ -230,6 +230,7 @@ Current database includes modules for:
 - Improved equipment availability
 - Enhanced patient safety
 - Lower maintenance costs
+- utility inspection make simple 
 
 ---
 
