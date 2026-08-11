@@ -1,5 +1,5 @@
 <?php
 
-$base_url = "https://bmes-cmms.infy.click/";
+$base_url = "http://localhost:8080/CMMS_2026/";
 
 ?>
