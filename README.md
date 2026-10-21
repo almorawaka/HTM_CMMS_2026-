@@ -1,4 +1,5 @@
 https://bmes-cmms.infinityfree.me//login.php?logout=1  UN - admin, PW - admin123
+https://bmes-cmms.infy.click//login.php?logout=1
 # CMMS_2026
 Intelligent IoT-Based Computerized Maintenance Management System (CMMS)
 
